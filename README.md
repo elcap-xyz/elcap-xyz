@@ -1,5 +1,5 @@
 # elcap.xyz
 
-Crypto • Mining • Automation
+Mining • Automation
 
 Bots and tools I use myself.
