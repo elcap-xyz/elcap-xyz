@@ -1,5 +1,5 @@
 # elcap.xyz
 
-Mining • Automation
+Mining • Optimization • Automation
 
-Bots and tools I use myself.
+Bots and tools I build and use for myself and close friends.
